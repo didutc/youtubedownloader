@@ -1,0 +1,51 @@
+:authority: www.youtube.com
+:method: GET
+:path: /browse_ajax?ctoken=4qmFsgJYEhhVQzFvWG1odllIVkkyYkFwcGhoM0l6dVEaPEVnWjJhV1JsYjNNWUF5QUFNQUU0QWVvREdrTm9SVWxuVEdwMk0wMTVlakZqVWxoRloxVkxRVEJPUldSMw%253D%253D&continuation=4qmFsgJYEhhVQzFvWG1odllIVkkyYkFwcGhoM0l6dVEaPEVnWjJhV1JsYjNNWUF5QUFNQUU0QWVvREdrTm9SVWxuVEdwMk0wMTVlakZqVWxoRloxVkxRVEJPUldSMw%253D%253D&itct=CAIQybcCIhMItrDHsOTE6wIVTCNgCh0zNQvD
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+cookie: VISITOR_INFO1_LIVE=nQyTcxHwtPw; CONSENT=YES+KR.en+202005; PREF=cvdm=grid&al=ko&f5=20000; SID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4RkpixDwctjgCWmi2u3yWLw.; __Secure-3PSID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4GYbW74ZcCXIUy6LX5ir5hQ.; HSID=ApuJ89BFawPygRxVt; SSID=AFFK1839_w6ImQt-X; APISID=8BbVzUJ4rlNwgSYf/ABH5EvMlz9NjIw13a; SAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; __Secure-3PAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; LOGIN_INFO=AFmmF2swRAIgMMoecS8XX5XCfj6et_7E8jxhIPjoJgd4UC8AqVInGgoCIHOscDxYmfR3-w5zL5ZHzxGsZRZ_OtHmPFE66x3CbUH1:QUQ3MjNmeFNkUGc5NmlBa20zQnhGS1B6Nkx0T0tJRFhkWnoyLUJwMDZWUHZJMjRwcVJzWGt6TE0zU3FwcU5rcTNqRE9DdTRqdUV4YTl6NUpSUkszcDhKNmlkb2ZYV2JjV3dteUJBVUNrSXFWTXZrTUZhUGJDekJQRHhfRUtpZnFiMU5fbXZna1ZzTGlhVEdoX0x2bGFEZnhnRXhMTEd0QTUtN2FEMDV5dTZCTENoTGpPWnFvbnVr; YSC=s5AexIgPvH0; SIDCC=AJi4QfGnnYKKh0Zwz0JdiC75hNKrasUuC1Wglb5dPD4HfXqXNnxe0hGUEf0Fnf5Cj5xo-40oIA; __Secure-3PSIDCC=AJi4QfHnjBwCS0LYw_h-oowrjfo81zAwsxiEw2r29UV0WHRYJyylg4DOdkP6SsT6kTgzJA4bcUI
+cookie: VISITOR_INFO1_LIVE=nQyTcxHwtPw; CONSENT=YES+KR.en+202005; PREF=cvdm=grid&al=ko&f5=20000; SID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4RkpixDwctjgCWmi2u3yWLw.; __Secure-3PSID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4GYbW74ZcCXIUy6LX5ir5hQ.; HSID=ApuJ89BFawPygRxVt; SSID=AFFK1839_w6ImQt-X; APISID=8BbVzUJ4rlNwgSYf/ABH5EvMlz9NjIw13a; SAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; __Secure-3PAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; LOGIN_INFO=AFmmF2swRAIgMMoecS8XX5XCfj6et_7E8jxhIPjoJgd4UC8AqVInGgoCIHOscDxYmfR3-w5zL5ZHzxGsZRZ_OtHmPFE66x3CbUH1:QUQ3MjNmeFNkUGc5NmlBa20zQnhGS1B6Nkx0T0tJRFhkWnoyLUJwMDZWUHZJMjRwcVJzWGt6TE0zU3FwcU5rcTNqRE9DdTRqdUV4YTl6NUpSUkszcDhKNmlkb2ZYV2JjV3dteUJBVUNrSXFWTXZrTUZhUGJDekJQRHhfRUtpZnFiMU5fbXZna1ZzTGlhVEdoX0x2bGFEZnhnRXhMTEd0QTUtN2FEMDV5dTZCTENoTGpPWnFvbnVr; YSC=s5AexIgPvH0; SIDCC=AJi4QfEZ74xIdi1s6XxZ5p9bWPaW8LD7JxS7PwJMh__utYFKc05ZsS8idaT92gNdGTL_0bMzpw; __Secure-3PSIDCC=AJi4QfHOQiVz_NuzUznHnfgp0MKrU1xr_vtwr26-HYcXrXVbZsuVsNpeaFkTBmDnUBFsesZNVjw
+
+referer: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+x-client-data: CIu2yQEIprbJAQjEtskBCKmdygEI2qHKAQiGtcoBCJm1ygEI9sfKAQj4x8oBCOfIygEI6cjKAQi0y8oBCJbWygEIvNfKAQ==
+x-spf-previous: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+x-spf-referer: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+x-youtube-ad-signals: dt=1598854285474&flash=0&frm&u_tz=540&u_his=13&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1857&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=977&biw=745&brdim=0%2C0%2C0%2C0%2C1857%2C0%2C1857%2C1080%2C762%2C977&vis=1&wgl=true&ca_type=image&bid=ANyPxKrCEH3eL7ZP6vKdwbGQx9Y5i2ixaqIZqOy4XBh0QjOGO5bOxb9exayugf8UFqpPXtqiztUibGOZqVMAmZwhVrIV5aAulw
+x-youtube-client-name: 1
+x-youtube-client-version: 2.20200827.01.00
+x-youtube-device: cbr=Chrome&cbrver=84.0.4147.135&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0
+x-youtube-identity-token: QUFFLUhqbGJUc3k0YW9XNzN6Y0NNZGRvcjZNXzlLRXhvZ3w=
+x-youtube-page-cl: 328698102
+x-youtube-page-label: youtube.ytfe.desktop_20200827_1_RC0
+              
+:authority: www.youtube.com
+:method: GET
+:path: /browse_ajax?ctoken=4qmFsgJwEhhVQzFvWG1odllIVkkyYkFwcGhoM0l6dVEaVEVnWjJhV1JsYjNNWUF5QUFNQUU0QWVvREowTm9jMGxuVEdwMk0wMTVlakZqVWxoRlp6aExRVUpKVEVOSmJqZHNjVFpYZUdSVVRqVm5SUSUzRCUzRA%253D%253D&continuation=4qmFsgJwEhhVQzFvWG1odllIVkkyYkFwcGhoM0l6dVEaVEVnWjJhV1JsYjNNWUF5QUFNQUU0QWVvREowTm9jMGxuVEdwMk0wMTVlakZqVWxoRlp6aExRVUpKVEVOSmJqZHNjVFpYZUdSVVRqVm5SUSUzRCUzRA%253D%253D&itct=CC8QybcCIhMI_KTyreTE6wIVC1QqCh0u5QJV
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+cookie: VISITOR_INFO1_LIVE=nQyTcxHwtPw; CONSENT=YES+KR.en+202005; PREF=cvdm=grid&al=ko&f5=20000; SID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4RkpixDwctjgCWmi2u3yWLw.; __Secure-3PSID=0wf-mkzdj_uTVu_X9x5ZRfLFbYgXqQyCd1SLZOovscxwOUj4GYbW74ZcCXIUy6LX5ir5hQ.; HSID=ApuJ89BFawPygRxVt; SSID=AFFK1839_w6ImQt-X; APISID=8BbVzUJ4rlNwgSYf/ABH5EvMlz9NjIw13a; SAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; __Secure-3PAPISID=aVr2B1_QMo2yvoR1/ARJK-LE1op6kOS7pk; LOGIN_INFO=AFmmF2swRAIgMMoecS8XX5XCfj6et_7E8jxhIPjoJgd4UC8AqVInGgoCIHOscDxYmfR3-w5zL5ZHzxGsZRZ_OtHmPFE66x3CbUH1:QUQ3MjNmeFNkUGc5NmlBa20zQnhGS1B6Nkx0T0tJRFhkWnoyLUJwMDZWUHZJMjRwcVJzWGt6TE0zU3FwcU5rcTNqRE9DdTRqdUV4YTl6NUpSUkszcDhKNmlkb2ZYV2JjV3dteUJBVUNrSXFWTXZrTUZhUGJDekJQRHhfRUtpZnFiMU5fbXZna1ZzTGlhVEdoX0x2bGFEZnhnRXhMTEd0QTUtN2FEMDV5dTZCTENoTGpPWnFvbnVr; YSC=s5AexIgPvH0; SIDCC=AJi4QfEZ74xIdi1s6XxZ5p9bWPaW8LD7JxS7PwJMh__utYFKc05ZsS8idaT92gNdGTL_0bMzpw; __Secure-3PSIDCC=AJi4QfHOQiVz_NuzUznHnfgp0MKrU1xr_vtwr26-HYcXrXVbZsuVsNpeaFkTBmDnUBFsesZNVjw
+referer: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+x-client-data: CIu2yQEIprbJAQjEtskBCKmdygEI2qHKAQiGtcoBCJm1ygEI9sfKAQj4x8oBCOfIygEI6cjKAQi0y8oBCJbWygEIvNfKAQ==
+x-spf-previous: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+x-spf-referer: https://www.youtube.com/channel/UC1oXmhvYHVI2bApphh3IzuQ/videos
+x-youtube-ad-signals: dt=1598854285474&flash=0&frm&u_tz=540&u_his=13&u_java&u_h=1080&u_w=1920&u_ah=1080&u_aw=1857&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=977&biw=745&brdim=0%2C0%2C0%2C0%2C1857%2C0%2C1857%2C1080%2C762%2C977&vis=1&wgl=true&ca_type=image&bid=ANyPxKrCEH3eL7ZP6vKdwbGQx9Y5i2ixaqIZqOy4XBh0QjOGO5bOxb9exayugf8UFqpPXtqiztUibGOZqVMAmZwhVrIV5aAulw
+x-youtube-client-name: 1
+x-youtube-client-version: 2.20200827.01.00
+x-youtube-device: cbr=Chrome&cbrver=84.0.4147.135&ceng=WebKit&cengver=537.36&cos=Windows&cosver=10.0
+x-youtube-identity-token: QUFFLUhqbGJUc3k0YW9XNzN6Y0NNZGRvcjZNXzlLRXhvZ3w=
+x-youtube-page-cl: 328698102
+x-youtube-page-label: youtube.ytfe.desktop_20200827_1_RC0
+
+
